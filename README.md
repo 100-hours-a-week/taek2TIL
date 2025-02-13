@@ -14,4 +14,6 @@
 
 > 25-02-10 matplotlib, seaborn, scipy 개요 + 연관 개념 ([바로가기](Feb/2025-02-10.md))
 >
->25-02-11 docker, krampoline, DKOS 학습 + 실습 ([바로가기](Feb/2025-02-11.md)) 
+> 25-02-11 docker, krampoline, DKOS 학습 + 실습 ([바로가기](Feb/2025-02-11.md)) 
+>
+> 25-02-12 확통 기초정의, scipy 실습, 과제 진행 ([바로가기](Feb/2025-02-12.md))
